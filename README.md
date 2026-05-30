@@ -1,4 +1,4 @@
-# Amazon sales analysis
+# Amazon sales Analysis project
 
 ## project objective
 The primary objective of this project is to analyze Amazon product sales data and transform it into meaningful business insights through an interactive dashboard. The project aims to provide a comprehensive view of sales performance, customer reviews, and product trends to help understand business growth and customer behavior.
@@ -31,7 +31,7 @@ The primary objective of this project is to analyze Amazon product sales data an
 
 
 ## dash board image
-<image src="https://github.com/Harshavardhan-14324/Amazon-sales-analysis-/blob/main/amazon1.jpeg"\>
+<img width="1919" height="1078" src="https://github.com/Harshavardhan-14324/Amazon-sales-analysis-/blob/main/amazon1.jpeg"/>
 
 ## final conlusion
 The Amazon Products Sales Analysis Dashboard successfully transformed raw sales and review data into meaningful business insights through interactive visualizations and KPI tracking. The analysis helped identify top-performing products and categories, understand customer review patterns, and monitor sales performance across different time periods.
