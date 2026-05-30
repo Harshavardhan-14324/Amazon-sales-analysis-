@@ -31,4 +31,8 @@ The primary objective of this project is to analyze Amazon product sales data an
 
 
 ## dash board image
-<image
+<image src="">
+
+## final conlusion
+The Amazon Products Sales Analysis Dashboard successfully transformed raw sales and review data into meaningful business insights through interactive visualizations and KPI tracking. The analysis helped identify top-performing products and categories, understand customer review patterns, and monitor sales performance across different time periods.
+
